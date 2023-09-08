@@ -39,6 +39,7 @@ function getTotalSupply() {
 NFTs = [];
 mintNFT("Alan", 200);
 mintNFT("Gabriel", 300);
+mintNFT("Limyu", 300);
 
 console.log("listNFTs: ");
 listNFTs();
